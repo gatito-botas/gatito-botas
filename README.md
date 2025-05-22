@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![0222-construction](https://github.com/user-attachments/assets/86a1e21c-b751-4ce1-9e5d-2947a0ecc734)
 
 <!--
 **gatito-botas/gatito-botas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
